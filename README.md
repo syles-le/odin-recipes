@@ -1,2 +1,3 @@
 # odin-recipes
-A basic recipe site using HTML
+In this project I will create a basic recipe site. I am practicing HTML skills like the boilerplate, 
+relative and absolute links, and tags.
